@@ -14,3 +14,10 @@ https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angula
 
 ## Angular part
 `app` folder contains all the Angular components. 
+
+## To run
+When in the same folder as server.js:
+```bash
+npm install
+node server.js
+```
