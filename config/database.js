@@ -1,3 +1,3 @@
 module.exports = {
-    url : 'mongodb://username:password@hostname:port'
+    url : 'mongodb://test:test@ds159737.mlab.com:59737/meantodo'
 };
